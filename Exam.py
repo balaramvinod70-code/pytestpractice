@@ -39,7 +39,7 @@ for i in range(1,num+1):
     factorial*=i
 print(factorial)
 
-#15.15.	Write a program to count vowels in a string using a loop.
+#15.15.	Wrirte a program to count vowels in a string using a loop.
 
 t=str(input("Enter any name:"))
 t=t.lower()
